@@ -24,10 +24,10 @@ h1{
 .bio{
     text-align: justify;
     margin-top: 20vh;
-    margin-bottom: 40vh;
+    margin-bottom: 60vh;
     margin-left: 15%;
     margin-right: 15%;
-    height: 100vh;
+    height: 100%;
 }
 
 .info{
@@ -39,7 +39,7 @@ h1{
 
 
 #projects{
-    margin-top: 25vh;
+    margin-top: 50vh;
 }
 
 #contact{
