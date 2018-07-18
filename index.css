@@ -24,6 +24,7 @@ h1{
 .bio, .info{
     text-align: justify;
     margin-top: 20vh;
+    margin-bottom: 20vh;
     margin-left: 15%;
     margin-right: 15%;
 }
