@@ -1,6 +1,12 @@
 .container{
 }
 
+.pic{
+    margin-top: 5vh;
+    border-radius: 50%;
+    height: 300px;
+}
+
 body{
     font-family: 'Lato', sans-serif;
 }
@@ -16,7 +22,7 @@ h1{
 }
 
 #demo{
-    margin-top: 25vh;
+    margin-top: 5vh;
     font-family: 'Space Mono', monospace;
 }
 
