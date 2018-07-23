@@ -1,6 +1,10 @@
 .container{
 }
 
+.card-content{
+    overflow: scroll;
+}
+
 .pic{
     margin-top: 5vh;
     border-radius: 50%;
